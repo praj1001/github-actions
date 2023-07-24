@@ -1,4 +1,4 @@
-name: Create Comment on Issues Opened
+name: Create Comment on Issues Opened and Testing rebase
 
 on:
   issues:

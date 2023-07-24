@@ -1,4 +1,4 @@
-name: The naem is Hello world workflow
+name: The name is Hello world workflow
 
 on:
   push:
